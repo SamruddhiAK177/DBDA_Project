@@ -33,7 +33,6 @@ The project is designed with the following components:
 - Apache Zookeeper
 - Apache Spark
 - Cassandra
-- PostgreSQL
 - Docker
 
 
